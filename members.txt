@@ -1,0 +1,2 @@
+test, 0217,10,10.0,100, 1,1
+kim dong han,kjkim805@@,3,2.0,6,False,0
