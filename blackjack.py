@@ -1,1 +1,3 @@
-t = open("input.txt","r")
+t = open("input.txt","r"
+		
+		]sdkas;da;kfm'l,ad)
